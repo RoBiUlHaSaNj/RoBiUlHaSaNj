@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Robiul hasan jisan</h1>
 <h3 align="center">A passionate ........</h3>
-<img aling="right"alt="coding"width"400"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV9jAZhohaCLter-4-wZTZZzXfUTUThm1WZQ&s">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robiulhasan&label=Profile%20views&color=0e75b6&style=flat" alt="robiulhasan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robiulhasan" alt="robiulhasan" /></a> </p>
 
 - 🌱 I’m currently learning **Python,java,ml**
 
