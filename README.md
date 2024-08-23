@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RoBiUlHaSaNj](https://github.com/RoBiUlHaSaNj)
 
-- 💬 Ask me about **c++/c**
+- 💬 Ask me about **c++/c , java**
 
 - 📫 How to reach me **https://www.facebook.com/robiulhasa88/**
 
