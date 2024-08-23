@@ -5,7 +5,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robiulhasan&label=Profile%20views&color=0e75b6&style=flat" alt="robiulhasan" /> </p>
-- 🌱 I’m currently learning **Python,java**
+- 🌱 I’m currently learning **Python,Web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RoBiUlHaSaNj](https://github.com/RoBiUlHaSaNj)
 
